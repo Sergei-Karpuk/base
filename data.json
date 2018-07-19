@@ -1,74 +1,50 @@
 [
   {
-    "compani": 1,
-    "item": "it",
-    "MMM": 05,
-    "active": "true",
-    "lid": 34,
-    "geo": "USA"
+    "compani":1,
+    "item":"it",
+    "MMM":05,
+    "active":"true",
+    "lid":34,
+    "geo":"USA"
   },
   {
-    "compani": 2,
-    "item": "it",
-    "MMM": 01,
-    "active": "true",
-    "lid": 34,
-    "geo": "USA"
+    "compani":2,
+    "item":"it",
+    "MMM":01,
+    "active":"true",
+    "lid":34,
+    "geo":"USA"
   },
   {
-    "compani": 3,
-    "item": "it",
-    "MMM": 01,
-    "active": "true",
-    "lid": 34,
-    "geo": "USA"
+    "compani":3,
+    "item":"it",
+    "MMM":01,
+    "active":"true",
+    "lid":34,
+    "geo":"USA"
   },
   {
-    "compani": 4,
-    "item": "it",
-    "MMM": 07,
-    "active": "true",
-    "lid": 34,
-    "geo": "USA"
+    "compani":4,
+    "item":"it",
+    "MMM":07,
+    "active":"true",
+    "lid":34,
+    "geo":"USA"
+  }
+  {
+    "compani":5,
+    "item":"it",
+    "MMM":08,
+    "active":"true",
+    "lid":34,
+    "geo":"USA"
   },
   {
-    "compani": 5,
-    "item": "it",
-    "MMM": 08,
-    "active": "true",
-    "lid": 34,
-    "geo": "USA"
-  },
-  {
-    "compani": 6,
-    "item": "it",
-    "MMM": 08,
-    "active": "true",
-    "lid": 34,
-    "geo": "USA"
-  },
-  {
-    "compani": 7,
-    "item": "it",
-    "MMM": 08,
-    "active": "true",
-    "lid": 34,
-    "geo": "USA"
-  },
-  {
-    "compani": 8,
-    "item": "it",
-    "MMM": 08,
-    "active": "true",
-    "lid": 34,
-    "geo": "USA"
-  },
-  {
-    "compani": 9,
-    "item": "it",
-    "MMM": 08,
-    "active": "true",
-    "lid": 34,
-    "geo": "USA"
+    "compani":6,
+    "item":"it",
+    "MMM":08,
+    "active":"true",
+    "lid":34,
+    "geo":"USA"
   }
 ]	
