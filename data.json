@@ -1,50 +1,26 @@
 [
   {
-    "compani":1,
-    "item":"it",
-    "MMM":05,
-    "active":"true",
-    "lid":34,
-    "geo":"USA"
+    "id":"12",
+    "lid":"2"
   },
   {
-    "compani":2,
-    "item":"it",
-    "MMM":01,
-    "active":"true",
-    "lid":34,
-    "geo":"USA"
+    "id":"122",
+    "lid":"32"
   },
   {
-    "compani":3,
-    "item":"it",
-    "MMM":01,
-    "active":"true",
-    "lid":34,
-    "geo":"USA"
+    "id":"12",
+    "lid":"32"
   },
   {
-    "compani":4,
-    "item":"it",
-    "MMM":07,
-    "active":"true",
-    "lid":34,
-    "geo":"USA"
-  }
-  {
-    "compani":5,
-    "item":"it",
-    "MMM":08,
-    "active":"true",
-    "lid":34,
-    "geo":"USA"
+    "id":"2",
+    "lid":"7"
   },
   {
-    "compani":6,
-    "item":"it",
-    "MMM":08,
-    "active":"true",
-    "lid":34,
-    "geo":"USA"
+    "id":"3",
+    "lid":"5"
+  },
+  {
+    "id":"4",
+    "lid":"3"
   }
 ]	
