@@ -1,12 +1,12 @@
 [
   {
     "id":"1",
-    "password":"Sahsa",
+    "name":"Sahsa",
     "curent":"23"
   },
   {
     "id":"2",
-    "password":"Igor",
+    "name":"Igor",
     "curent":"12"
   },
   {
