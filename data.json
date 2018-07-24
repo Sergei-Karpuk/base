@@ -1,26 +1,32 @@
 [
   {
-    "id":"12",
-    "lid":"2"
-  },
-  {
-    "id":"122",
-    "lid":"32"
-  },
-  {
-    "id":"12",
-    "lid":"32"
+    "id":"1",
+    "password":"Sahsa",
+    "curent":"23"
   },
   {
     "id":"2",
-    "lid":"7"
+    "password":"Igor",
+    "curent":"12"
   },
   {
     "id":"3",
-    "lid":"5"
+    "name":"Sergei",
+    "curent":"45"
   },
   {
     "id":"4",
-    "lid":"3"
+    "name":"Oleg",
+    "curent":"22"
+  },
+  {
+    "id":"5",
+    "name":"Ira",
+    "curent":"39"
+  },
+  {
+    "id":"6",
+    "name":"Dana",
+    "curent":"48"
   }
-]	
+]
