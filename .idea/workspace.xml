@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d31e1d77-62ea-4243-8735-dbc58deac36a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/data-user.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
-    </list>
+    <list default="true" id="d31e1d77-62ea-4243-8735-dbc58deac36a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
